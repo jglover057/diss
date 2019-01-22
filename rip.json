@@ -1,0 +1,7 @@
+{
+  "object" : "RRIP_protocol",
+  "name" : "RIP",
+  "description" : "RRIPProtocol",
+  "table" : "udp.port",
+  "port" : "520"
+}

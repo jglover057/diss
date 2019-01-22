@@ -1,0 +1,7 @@
+{
+  "object" : "ICMP_protocol",
+  "name" : "ICMP",
+  "description" : "ICMPProtocol",
+  "table" : "ip.proto",
+  "port" : "1"
+}
